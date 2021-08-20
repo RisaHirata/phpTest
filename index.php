@@ -1,3 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>tech boost</title>
+</head>
+  <body>
 <?php
 $a = 3;
 $b = 7;
@@ -27,4 +34,6 @@ $calendar2020 = [
 ];
 echo $calendar2020["December"];
 ?>
+  </body>
+</html>
 
